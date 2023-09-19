@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Alexandre Iorio
+Computer Science Student at HEIG Yverdon
 
-<!--
-**AlexandreIorio/AlexandreIorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 📚 Currently an embedded computer systems student at HEIG Yverdon.
+- 💻 Passionate about programming and application development.
+- 🌐 Love exploring new ideas and working on interesting projects.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** C#, Python, Java, C++, C
+- **Databases:** MySQL, MariaDB, EntityFramework
+- **Development Tools:** Git, Visual Studio Code, Visual Studio
+- **Graphical Tools:**  PlantUML, Photoshop, Indesign, Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Projects
+- 🚀 currently no recent public projects
+
+## Contact
+- 📧 [Email Address](mailto:alexandre.iorio@heig-vd.ch)
+- 🔗 [LinkdIn](https://www.linkedin.com/in/alexandre-i-b7286a200/)
+
+Feel free to reach out if you have any questions, suggestions, or want to discuss interesting projects!
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreiorio&show_icons=true)](https://github.com/AlexandreIorio)
