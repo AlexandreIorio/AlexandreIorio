@@ -17,7 +17,7 @@ I'm a Computer Science student at HEIG-Yverdon.
 
 ## Contact
 - 📧 [Email me](mailto:alexandre.iorio@heig-vd.ch)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alexandre-i-b7286a200/)
+- 🔗 [Linkedin](https://ch.linkedin.com/in/alexandre-iorio-b7286a200)
 - 🌐 [Personal Website](http://aiorio.ch)
 
 Feel free to reach out if you have any questions, suggestions, or if you want to discuss interesting projects!
