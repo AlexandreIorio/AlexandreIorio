@@ -10,7 +10,7 @@ I'm a Computer Science student at HEIG-Yverdon.
 - **Programming Languages:** C#, Python, Java, C++, C
 - **Databases:** MySQL, MariaDB, Entity Framework
 - **Development Tools:** Git, JetBrains Rider, CLion, PyCharm, DataGrip, Visual Studio Code, Visual Studio
-- **Graphical Tools:** PlantUML, AutoCAD, Photoshop, InDesign, Markdown
+- **Graphical Tools:** PlantUML, AutoCAD, Photoshop, InDesign, Markdown, InkScape, Scribus
 
 ## Recent Projects
 - 🚀 Currently working on [Lionk-Framework](https://github.com/Lionk-Framework)
