@@ -13,7 +13,7 @@ I'm a Computer Science student at HEIG-Yverdon.
 - **Graphical Tools:** PlantUML, AutoCAD, Photoshop, InDesign, Markdown
 
 ## Recent Projects
-- 🚀 Currently working on a personal project: [ProjectPulse](https://github.com/AlexandreIorio/ProjectPulse)
+- 🚀 Currently working on [Lionk-Framework](https://github.com/Lionk-Framework)
 
 ## Contact
 - 📧 [Email me](mailto:alexandre.iorio@heig-vd.ch)
