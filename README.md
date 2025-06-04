@@ -1,5 +1,4 @@
 # Hi there, I'm Alexandre Iorio
-I'm a Computer Science student at HEIG-Yverdon.
 
 ## About Me
 - 📚 Currently studying embedded computer systems at HEIG-Yverdon.
