@@ -9,7 +9,7 @@
 - **Databases:** SQL, InfluxDB 3
 - **Messaging & IoT:** RabbitMQ, MQTT, Ble
 - **Documentation:** Markdown, Typst, MKDocs
-- **Development Tools:** NeoVim, Git, JetBrains Rider, CLion, PyCharm, DataGrip, Visual Studio Code, Visual Studio
+- **Development Tools:** NeoVim, Git, JetBrains Rider, Docker, CLion, PyCharm, DataGrip, Visual Studio Code, Visual Studio
 - **Graphical Tools:** PlantUML, Excalidraw, DrawIO, Inkscape, Scribus, AutoCAD, Revit, Photoshop, InDesign
 - **Office:** OpenOffice, Word, Excel, VBA, Project
 
