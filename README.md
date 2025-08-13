@@ -5,8 +5,8 @@
 - Love exploring new technologies and working on innovative projects.
 
 ## Skills
-- **Programming Languages:** C#, C, Python, Java, C++
-- **Databases:** MySQL, MariaDB, PostgreSQL, Entity Framework
+- **Programming Languages:** C#, C, Python, Java, C++, HTML, CSS
+- **Databases:** SQL, InfluxDb3
 - **Documentation:** Markdown, Typst, MKdocs
 - **Development Tools:** NeoVim, Git, JetBrains Rider, CLion, PyCharm, DataGrip, Visual Studio Code, Visual Studio
 - **Graphical Tools:** PlantUML, InkScape, Scribus, AutoCAD, Revit, Photoshop, InDesign
