@@ -5,12 +5,12 @@
 - Love exploring new technologies and working on innovative projects.
 
 ## Skills
-**Programming Languages:** C#, C, Python, Java, C++, HTML, CSS
-**Databases:** SQL, InfluxDB 3
-**Messaging & IoT:** RabbitMQ, MQTT, Ble
-**Documentation:** Markdown, Typst, MKDocs
-**Development Tools:** NeoVim, Git, JetBrains Rider, CLion, PyCharm, DataGrip, Visual Studio Code, Visual Studio
-**Graphical Tools:** PlantUML, Inkscape, Scribus, AutoCAD, Revit, Photoshop, InDesign
+- **Programming Languages:** C#, C, Python, Java, C++, HTML, CSS
+- **Databases:** SQL, InfluxDB 3
+- **Messaging & IoT:** RabbitMQ, MQTT, Ble
+- **Documentation:** Markdown, Typst, MKDocs
+- **Development Tools:** NeoVim, Git, JetBrains Rider, CLion, PyCharm, DataGrip, Visual Studio Code, Visual Studio
+- **Graphical Tools:** PlantUML, Inkscape, Scribus, AutoCAD, Revit, Photoshop, InDesign
 
 ## Recent Projects
 - Currently working on [Lionk-Framework](https://github.com/Lionk-Framework)
