@@ -10,7 +10,8 @@
 - **Messaging & IoT:** RabbitMQ, MQTT, Ble
 - **Documentation:** Markdown, Typst, MKDocs
 - **Development Tools:** NeoVim, Git, JetBrains Rider, CLion, PyCharm, DataGrip, Visual Studio Code, Visual Studio
-- **Graphical Tools:** PlantUML, Inkscape, Scribus, AutoCAD, Revit, Photoshop, InDesign
+- **Graphical Tools:** PlantUML, Excalidraw, DrawIO, Inkscape, Scribus, AutoCAD, Revit, Photoshop, InDesign
+- **Office:** OpenOffice, Word, Excel, VBA, Project
 
 ## Recent Projects
 - Currently working on [Lionk-Framework](https://github.com/Lionk-Framework)
